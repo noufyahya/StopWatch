@@ -5,5 +5,5 @@ with my OWN addtions
 
 
 
-    <img src="https://github.com/noufyahya/StopWatch/blob/master/app/Screenshot_1575305688.png"  width="250" height="450" /> <img src="https://github.com/noufyahya/StopWatch/blob/master/app/Screenshot_1575305691.png"  width="250" height="450" /> <img src="https://github.com/noufyahya/StopWatch/blob/master/app/Screenshot_1575305695.png"  width="250" height="450" /> 
+   <img src="https://github.com/noufyahya/StopWatch/blob/master/app/Screenshot_1575305688.png"  width="250" height="450" /> <img src="https://github.com/noufyahya/StopWatch/blob/master/app/Screenshot_1575305691.png"  width="250" height="450" /> <img src="https://github.com/noufyahya/StopWatch/blob/master/app/Screenshot_1575305695.png"  width="250" height="450" /> 
 
